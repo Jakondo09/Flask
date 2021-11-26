@@ -19,7 +19,6 @@ The purpose of this repository is to allow GitHub and the Gazprom Neft community
 
 ## Get started with the library
 
-With [pipenv](https://docs.pipenv.org/):
     // import shared library
        @Library("dsoLibrary") _
 
