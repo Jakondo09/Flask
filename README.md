@@ -1,9 +1,5 @@
 # [Команда DevOPs] | Jenkins библиотека
 
-### Библиотека компонентов
-
-[Репозиторий](https://github.com/gazprom-neft/consta-uikit) | [NPM](https://www.npmjs.com/package/@consta/uikit) | [Документация и стенд](https://consta-uikit.vercel.app/?path=/story/common-about--page) | [Макеты](https://www.figma.com/community/file/853774806786762374)
-
 ### Библиотека Jenkins
 
 [Репозиторий](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)
