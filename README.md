@@ -1,5 +1,5 @@
 
-![DevSecOPS-Sharedlib-jenkins](https://user-images.githubusercontent.com/19351782/125063408-1bcdab80-e0b8-11eb-96c2-719bc640da36.png)
+![DevSecOPS-Sharedlib-jenkins](https://www.shutterstock.com/ru/image-vector/devsecops-methodology-secure-software-development-process-1920964259)
 
 <p align="center">
   <a href="">Docs</a> •
