@@ -9,6 +9,12 @@ The purpose of this repository is to allow GitHub and the Gazprom Neft community
 - Using Gazprom Neft libraries
 - Feedback and features requests
 
+### Jenkins Library
+-- Jenkins library repository on GitHub
+- [Repository](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)
+-- Repository inside the Gazprom-neft perimeter
+- [Repository](https://alm-itsk.gazprom-neft.local:8080/TFS/GPN/DSO_SERVICE/_git/sharedlib-jenkins-dso)
+
 # 👥  Gazprom Team
 | Name | Handle | Company | Title |
 | --- | --- | --- | --- |
