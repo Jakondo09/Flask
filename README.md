@@ -21,8 +21,8 @@ The purpose of this repository is to allow GitHub and the Gazprom Neft community
 
 #!groovy
 -- 
-// import shared library
-@Library("dsoLibrary") _
+- // import shared library
+- @Library("dsoLibrary") _
 
 # 👥  Gazprom Team
 | Name | Handle | Company | Title |
