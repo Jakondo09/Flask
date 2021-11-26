@@ -8,23 +8,6 @@ The purpose of this repository is to allow GitHub and the Gazprom Neft community
 
 - Using Gazprom Neft libraries
 - Feedback and features requests
- 👥 Your Team
-
-The following folks are the maintainers for this repository. Please feel free to contact them via an [@mention](https://docs.github.com/github/writing-on-github/basic-writing-and-formatting-syntax#mentioning-people-and-teams) in an [issue](https://github.com/githubcustomers/GazpromNeft/issues/new), or via email for any questions, comments, and/or ideas you may have relating GitHub and this repository:
-
-| Name              | Contact                                              | Pic                               |
-| ----------------- | ---------------------------------------------------- | --------------------------------- |
-| Rex Mpala         | [@rkzm](https://github.com/rkzm)                     | ![rkzm][rkzm]
-| Lars Schneider    | [@larsxschneider](https://github.com/larsxschneider) | ![larsxschneider][larsxschneider] |
-| Prem Kumar Ponuthorai    | [@ppremk](https://github.com/ppremk)           | ![ppremk][ppremk]           |
-| Mehdi Belmekki    | [@medovix](https://github.com/medovix)               | ![medovix][medovix]               |
-| Stefan Stölzle    | [@stoe](https://github.com/stoe)                     | ![stoe][stoe]                     |
-
-[rkzm]: https://avatars.githubusercontent.com/rkzm?s=80
-[medovix]: https://avatars.githubusercontent.com/medovix?s=80
-[larsxschneider]: https://avatars.githubusercontent.com/larsxschneider?s=80
-[ppremk]: https://avatars.githubusercontent.com/ppremk?s=80
-[stoe]: https://avatars.githubusercontent.com/stoe?s=80
 
 # 👥  Gazprom Team
 | Name | Handle | Company | Title |
