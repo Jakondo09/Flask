@@ -1,20 +1,44 @@
+# [Команда DevOPs] | Jenkins библиотека
 
-![DevSecOPS-Sharedlib-jenkins](https://www.shutterstock.com/ru/image-vector/devsecops-methodology-secure-software-development-process-1920964259)
+### Библиотека компонентов
 
-<p align="center">
-  <a href="">Docs</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="tutorials">Tutorials</a> •
-  <a href="#citing-seismicpro">Citation</a>
-</p>
+[Репозиторий](https://github.com/gazprom-neft/consta-uikit) | [NPM](https://www.npmjs.com/package/@consta/uikit) | [Документация и стенд](https://consta-uikit.vercel.app/?path=/story/common-about--page) | [Макеты](https://www.figma.com/community/file/853774806786762374)
 
-[![License](https://img.shields.io/github/license/analysiscenter/batchflow.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-[![Python](https://img.shields.io/badge/python-3.8-blue.svg)](https://python.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.8-orange.svg)](https://pytorch.org)
-[![Status](https://github.com/gazprom-neft/SeismicPro/actions/workflows/status.yml/badge.svg?branch=master&event=push)](https://github.com/gazprom-neft/SeismicPro/actions/workflows/status.yml)
-[![Test installation](https://github.com/gazprom-neft/SeismicPro/actions/workflows/test-install.yml/badge.svg?branch=master&event=push)](https://github.com/gazprom-neft/SeismicPro/actions/workflows/test-install.yml)
+### Библиотека Jenkins
 
-</div>
+[Репозиторий](https://github.com/gazprom-neft/Sharedlib-jenkins-dso)
+[Репозиторий](https://alm-itsk.gazprom-neft.local:8080/TFS/GPN/DSO_SERVICE/_git/sharedlib-jenkins-dso)
 
--
+
+## Начните работу с библиотекой
+
+Чтобы начать работу с библиотекой
+
+#!groovy
+ 
+// import shared library
+@Library("dsoLibrary") _
+
+[Pepline]
+//docker build
+docker build
+        @param registry URL of desired docker-registry service
+        @param ocpNamespace project OCP namespace
+        @param ocpAppName OCP name used for application
+        @param gitCommitShort short hash id of used git commit
+        @param dockerfileName Dockerfile name
+        @param additionalArgs extra variable, should consist of command flag (for ex., -build-arg) and value
+
+//Docker push
+        @param registry URL of desired docker-registry service
+        @param ocpNamespace project OCP namespace
+        @param ocpAppName OCP name used for application
+        @param gitCommitShort short hash id of used git commit		
+
+// Typical docker build pipeline: login, build, push
+        @param registry URL of desired docker-registry service
+        @param ocpNamespace project OCP namespace
+        @param ocpAppName OCP name used for application
+        @param gitCommitShort short hash id of used git commit
+        @param dockerfileName Dockerfile name
+        @param additionalArgs extra variable, should consist of command flag (for ex., -build-arg) and value		
