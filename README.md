@@ -17,6 +17,13 @@ The purpose of this repository is to allow GitHub and the Gazprom Neft community
 -- Repository inside the Gazprom-neft perimeter
 - [Repository](https://alm-itsk.gazprom-neft.local:8080/TFS/GPN/DSO_SERVICE/_git/sharedlib-jenkins-dso)
 
+## Get started with the library
+
+#!groovy
+ 
+// import shared library
+@Library("dsoLibrary") _
+
 # 👥  Gazprom Team
 | Name | Handle | Company | Title |
 | --- | --- | --- | --- |
