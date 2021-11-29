@@ -28,9 +28,12 @@ The purpose of this repository is to allow GitHub and the Gazprom Neft community
 | --- | --- | --- | --- |
 |Pavel Lipatov | @pabloli84 | Gazprom-Neft | Head of DevOps |
 |Lev Melentev | @levurevich | Gazprom-Neft | Team Tech Lead |
-|Vladmir Shishkin | @shamanhex | Gazprom-Neft | Head of software development technologies department |
-|Artem Yushkov | @YushkovArtem | Gazprom-Neft | Lead Specialist | 
-|Alexey Parygin | @TheSntXel | Gazprom-Neft | Lead Specialist |
 |Artem Batalov| @aruchibarudo | Gazprom-Neft | Sr. System Engineer |
 |Andrey Kuzmin | @HillReywer |  Gazprom-Neft | Sr. System Engineer |
+|Evgenij Kurnosov | @olmerdale | Gazprom-Neft | Sr. System Engineer |
 |Eugene Khokhlov | @rageofgods | Gazprom-Neft | Sr. System Engineer |
+|Georgij Anikin | @g-anikin |  Gazprom-Neft | Sr. System Engineer |
+|Mihail Perov | @perovma | Gazprom-Neft | Sr. System Engineer |
+|Aleksandr Petlin | @jakondo09 | Gazprom-Neft | Sr. System Engineer |
+|Dmitrij Seleznev | @dimako12 | Gazprom-Neft | Sr. System Engineer |
+|Stanislav Sobol' | @pokamolodoy406 | Gazprom-Neft | IT.security |
